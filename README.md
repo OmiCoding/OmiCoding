@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi 👋, I'm Omar
 
-<!--
-**OmiCoding/OmiCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h5><a href="./resume.pdf">resume.pdf</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</h5>
 
-Here are some ideas to get you started:
+### A creative with a passion for building software applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Combining my creative and technical passion to bring solutions for clients. As a software engineer I love to learn new tools, and to be active in sharing my knowledege on any medium to this growing community! 
+
+#### Find me around the web 🌎
+- Learning and teaching in public on [Twitch](https://www.twitch.tv/omifans_) 💻
+- What I'm currently up to on [Twitter](https://twitter.com/digicoding) 🗣️
+- My experience [LinkedIn](https://www.linkedin.com/in/omar-estevez/) 💼
+
