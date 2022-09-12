@@ -62,4 +62,30 @@ Combining my creative and technical passion to bring solutions for clients. As a
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original-wordmark.svg" width="40" height="40" />
 </p>
 
-# Projects
+# Work
+
+<table align="center" bordercolor="#66b2b2">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Lock & Key Remedies</h3>
+        <br />
+        <a href="https://lkremedies.com/">
+            <img src="./img/lockkey.png" width="100%" alt="Lock & Key Remedies"/>
+        </a>
+        <br />
+      <p>Fully responsive Ecommerce website built for a company that create hollistic products for consumers.</p>
+    </td>
+    <!-- <td width="50%" valign="top">
+      <h3 align="center">MediumPhormat</h3>
+        <br />
+      <a target="_blank" href="#">
+        <img src="./img/lockkey.png" width="100%"  alt="Lock & Key"/>
+      </a>
+        <br />
+        <p align="center">
+    </td> -->
+  </tr>
+</table>
+
+
+# Projects 
