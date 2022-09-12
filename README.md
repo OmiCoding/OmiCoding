@@ -42,7 +42,15 @@ Combining my creative and technical passion to bring solutions for clients. As a
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="40" />
 </p>
 
-## Design
+## Tools
 <p align="left">
 
+</p>
+
+## Design
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original-wordmark.svg" width="40" height="40" />
 </p>
