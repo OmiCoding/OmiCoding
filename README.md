@@ -64,13 +64,13 @@ Combining my creative and technical passion to bring solutions for clients. As a
 
 # Work
 
-<table align="center" bordercolor="#66b2b2">
+<table align="left" bordercolor="#66b2b2">
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Lock & Key Remedies</h3>
         <br />
         <a href="https://lkremedies.com/">
-            <img src="./img/lockkey.png" width="100%" alt="Lock & Key Remedies"/>
+            <img target="" src="./img/locknkey.png" width="100%" alt="Lock & Key Remedies"/>
         </a>
         <br />
       <p>Fully responsive Ecommerce website built for a company that create hollistic products for consumers.</p>
