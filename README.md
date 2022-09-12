@@ -73,7 +73,7 @@ Combining my creative and technical passion to bring solutions for clients. As a
             <img target="" src="./img/locknkey.png" width="100%" alt="Lock & Key Remedies"/>
         </a>
         <br />
-      <p>Fully responsive Ecommerce website built for a company that create hollistic products for consumers.</p>
+      <p align="center">Ecommerce web app built for a company that create hollistic products for consumers.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">MediumPhormat</h3>
@@ -81,8 +81,10 @@ Combining my creative and technical passion to bring solutions for clients. As a
       <a target="_blank" href="https://mediumphormat.com/">
         <img src="./img/mediumphormat.png" width="100%"  alt="MediumPhormat"/>
       </a>
-        <br />
-        <p align="center">
+      <br />
+      <p align="center">
+        Ecommerce website built for a company that creates bookings for photography, including a subscription service.
+      </p>
     </td>
   </tr>
 </table>
