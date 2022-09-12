@@ -64,7 +64,7 @@ Combining my creative and technical passion to bring solutions for clients. As a
 
 # Work
 
-<table align="left" bordercolor="#66b2b2">
+<table align="left" bordercolor="#66b2b2" width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Lock & Key Remedies</h3>
