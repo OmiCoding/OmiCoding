@@ -1,6 +1,6 @@
 # Hi 👋, I'm Omar
 
-<h5><a href="./resume.pdf">My resume 🔗</a></h5>
+<h3><a href="./resume.pdf">My resume 🔗</a></h3>
 
 ## A creative with a passion for building software applications
 
@@ -42,7 +42,7 @@ Combining my creative and technical passion to bring solutions for clients. As a
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="40" />
 </p>
 
-## Tools
+## Misc / Tools
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40" />
@@ -50,8 +50,8 @@ Combining my creative and technical passion to bring solutions for clients. As a
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
 </p>
 
 ## Design
@@ -61,3 +61,5 @@ Combining my creative and technical passion to bring solutions for clients. As a
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original-wordmark.svg" width="40" height="40" />
 </p>
+
+# Projects
