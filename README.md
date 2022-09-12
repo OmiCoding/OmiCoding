@@ -75,15 +75,15 @@ Combining my creative and technical passion to bring solutions for clients. As a
         <br />
       <p>Fully responsive Ecommerce website built for a company that create hollistic products for consumers.</p>
     </td>
-    <!-- <td width="50%" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">MediumPhormat</h3>
         <br />
-      <a target="_blank" href="#">
-        <img src="./img/lockkey.png" width="100%"  alt="Lock & Key"/>
+      <a target="_blank" href="https://mediumphormat.com/">
+        <img src="./img/mediumphormat.png" width="100%"  alt="MediumPhormat"/>
       </a>
         <br />
         <p align="center">
-    </td> -->
+    </td>
   </tr>
 </table>
 
