@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Omar
 
-<h5><a href="./resume.pdf">resume.pdf</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</h5>
+<h5><a href="./resume.pdf">resume.pdf</a></h5>
 
 ### A creative with a passion for building software applications
 
