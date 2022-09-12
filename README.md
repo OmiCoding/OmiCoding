@@ -16,5 +16,5 @@ Combining my creative and technical passion to bring solutions for clients. As a
 ## Languages
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="80" height="80" />
 </p>
