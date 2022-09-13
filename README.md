@@ -73,7 +73,7 @@ Combining my creative and technical passion to bring solutions for clients. As a
             <img target="" src="./img/locknkey.png" width="100%" alt="Lock & Key Remedies"/>
         </a>
         <br />
-      <p align="center">Ecommerce web app built for a company that create hollistic products for consumers.</p>
+      <p align="center">Ecommerce web app built for a company that create hollistic products for consumers</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">MediumPhormat</h3>
@@ -83,11 +83,24 @@ Combining my creative and technical passion to bring solutions for clients. As a
       </a>
       <br />
       <p align="center">
-        Ecommerce website built for a company that creates bookings for photography, including a subscription service.
+        Ecommerce website built for a company that creates bookings for photography, including a subscription service
       </p>
     </td>
   </tr>
 </table>
 
-
 # Projects 
+
+<table align="left" bordercolor="#66b2b2" width="100%">
+  <tr>
+    <td width="100%" valign="top">
+      <h3 align="center">Daazzll</h3>
+        <br />
+        <!-- <a href="https://lkremedies.com/">
+            <img target="" src="./img/locknkey.png" width="100%" alt="Lock & Key Remedies"/>
+        </a> -->
+        <br />
+      <p align="center">Daazzll is a community for artists that want to share animated content with others.</p>
+    </td>
+  </tr>
+</table>
