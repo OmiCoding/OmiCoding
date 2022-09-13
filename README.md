@@ -96,9 +96,9 @@ Combining my creative and technical passion to bring solutions for clients. As a
     <td width="100%" valign="top">
       <h3 align="center">Daazzll</h3>
         <br />
-        <!-- <a href="https://lkremedies.com/">
-            <img target="" src="./img/locknkey.png" width="100%" alt="Lock & Key Remedies"/>
-        </a> -->
+        <a href="#">
+            <img target="" src="./img/daazzll.png" width="100%" alt="Daazzll a platform to share animated content"/>
+        </a>
         <br />
       <p align="center">Daazzll is a community for artists that want to share animated content with others.</p>
     </td>
