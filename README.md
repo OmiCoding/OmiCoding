@@ -62,6 +62,22 @@ Combining my creative and technical passion to bring solutions for clients. As a
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original-wordmark.svg" width="40" height="40" />
 </p>
 
+# Projects 
+
+<table align="left" bordercolor="#66b2b2" width="100%">
+  <tr>
+    <td width="100%" valign="top">
+      <h3 align="center">Daazzll</h3>
+        <br />
+        <a href="https://daazzll.com/">
+            <img target="" src="./img/daazzll.png" width="100%" alt="Daazzll a platform to share animated content"/>
+        </a>
+        <br />
+      <p align="center">Daazzll is a community for artists that want to share animated content with others.</p>
+    </td>
+  </tr>
+</table>
+
 # Work
 
 <table align="left" bordercolor="#66b2b2" width="100%">
@@ -89,18 +105,3 @@ Combining my creative and technical passion to bring solutions for clients. As a
   </tr>
 </table>
 
-# Projects 
-
-<table align="left" bordercolor="#66b2b2" width="100%">
-  <tr>
-    <td width="100%" valign="top">
-      <h3 align="center">Daazzll</h3>
-        <br />
-        <a href="#">
-            <img target="" src="./img/daazzll.png" width="100%" alt="Daazzll a platform to share animated content"/>
-        </a>
-        <br />
-      <p align="center">Daazzll is a community for artists that want to share animated content with others.</p>
-    </td>
-  </tr>
-</table>
